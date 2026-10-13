@@ -29,20 +29,60 @@ A polished, offline-first **Mini Catalog Application** built for the Flutter And
 
 ## Folder layout
 ```
-lib/
-  main.dart
-  models/product.dart
-  data/catalog_repository.dart
-  screens/catalog_screen.dart
-  screens/product_detail_screen.dart
-  screens/cart_screen.dart
-  widgets/product_card.dart
-  theme/app_theme.dart
-assets/
-  data/products.json
-  images/product_01.png ... product_12.png
-test/product_test.dart
-screenshots/README.md
+
+mini_catalog_project/
+├── android/                    # Android platform configuration
+│   ├── app/                    # Android application module
+│   ├── gradle/                 # Gradle wrapper files
+│   ├── build.gradle.kts
+│   ├── settings.gradle.kts
+│   ├── gradlew
+│   └── gradlew.bat
+│
+├── assets/
+│   ├── data/
+│   │   └── products.json       # Local product dataset
+│   └── images/
+│       └── product_01.png ... product_12.png
+│
+├── lib/
+│   ├── main.dart               # Application entry point
+│   ├── models/
+│   │   └── product.dart
+│   ├── data/
+│   │   └── catalog_repository.dart
+│   ├── screens/
+│   │   ├── catalog_screen.dart
+│   │   ├── product_detail_screen.dart
+│   │   └── cart_screen.dart
+│   ├── widgets/
+│   │   └── product_card.dart
+│   └── theme/
+│       └── app_theme.dart
+│
+├── test/
+│   └── product_test.dart       # Product model unit tests
+│
+├── screenshots/
+│   ├── 01_home_screen.png
+│   ├── 02_product_details.png
+│   ├── 03_cart_with_product.png
+│   ├── 04_empty_cart.png
+│   ├── 05_search_results.png
+│   ├── 06_audio_category.png
+│   ├── 07_tech_category.png
+│   ├── 08_home_category.png
+│   ├── 09_all_products_items.png
+│   └── README.md
+│
+├── .gitignore
+├── analysis_options.yaml
+├── pubspec.yaml
+├── pubspec.lock
+├── README.md
+├── SETUP_TR.md
+└── LICENSE
+
 ```
 
 ## Requirements coverage
