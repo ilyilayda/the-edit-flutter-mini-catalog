@@ -1,0 +1,27 @@
+
+# Flutter and Dart
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+build/
+coverage/
+
+# IDE Settings
+.idea/
+.vscode/
+*.iml
+
+# Android and Gradle
+**/.gradle/
+**/.kotlin/
+**/local.properties
+**/key.properties
+**/*.keystore
+**/*.jks
+
+# System Files
+.DS_Store
+Thumbs.db

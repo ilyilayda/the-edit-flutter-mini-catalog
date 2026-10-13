@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "name": "Aurora Headphones",
+    "category": "Audio",
+    "price": 1899,
+    "description": "Wireless over-ear sound",
+    "image": "assets/images/product_01.png",
+    "rating": 4.4
+  },
+  {
+    "id": 2,
+    "name": "Orbit Speaker",
+    "category": "Audio",
+    "price": 1299,
+    "description": "Compact wireless speaker",
+    "image": "assets/images/product_02.png",
+    "rating": 4.5
+  },
+  {
+    "id": 3,
+    "name": "Nova Camera",
+    "category": "Tech",
+    "price": 6499,
+    "description": "Capture every moment",
+    "image": "assets/images/product_03.png",
+    "rating": 4.6
+  },
+  {
+    "id": 4,
+    "name": "Pulse Smartwatch",
+    "category": "Tech",
+    "price": 2899,
+    "description": "Stay connected in style",
+    "image": "assets/images/product_04.png",
+    "rating": 4.7
+  },
+  {
+    "id": 5,
+    "name": "Lumen Lamp",
+    "category": "Home",
+    "price": 1199,
+    "description": "Warm light for every room",
+    "image": "assets/images/product_05.png",
+    "rating": 4.8
+  },
+  {
+    "id": 6,
+    "name": "Arc Desk Chair",
+    "category": "Home",
+    "price": 4299,
+    "description": "Comfort for creative work",
+    "image": "assets/images/product_06.png",
+    "rating": 4.9
+  },
+  {
+    "id": 7,
+    "name": "Terra Backpack",
+    "category": "Lifestyle",
+    "price": 1599,
+    "description": "Everyday essential carry",
+    "image": "assets/images/product_07.png",
+    "rating": 4.4
+  },
+  {
+    "id": 8,
+    "name": "Echo Sneakers",
+    "category": "Lifestyle",
+    "price": 2399,
+    "description": "Move with confidence",
+    "image": "assets/images/product_08.png",
+    "rating": 4.5
+  },
+  {
+    "id": 9,
+    "name": "Cloud Keyboard",
+    "category": "Tech",
+    "price": 1799,
+    "description": "Smooth mechanical typing",
+    "image": "assets/images/product_09.png",
+    "rating": 4.6
+  },
+  {
+    "id": 10,
+    "name": "Bloom Planter",
+    "category": "Home",
+    "price": 799,
+    "description": "Minimalist home decor",
+    "image": "assets/images/product_10.png",
+    "rating": 4.7
+  },
+  {
+    "id": 11,
+    "name": "Flow Bottle",
+    "category": "Lifestyle",
+    "price": 499,
+    "description": "Hydration on the go",
+    "image": "assets/images/product_11.png",
+    "rating": 4.8
+  },
+  {
+    "id": 12,
+    "name": "Studio Microphone",
+    "category": "Audio",
+    "price": 2199,
+    "description": "Crystal clear recording",
+    "image": "assets/images/product_12.png",
+    "rating": 4.9
+  }
+]

@@ -1,0 +1,18 @@
+
+# Android generated files
+/captures/
+GeneratedPluginRegistrant.java
+.cxx/
+
+# Android and Gradle caches
+.gradle/
+.kotlin/
+build/
+
+# Local configuration
+local.properties
+
+# Signing credentials
+key.properties
+**/*.keystore
+**/*.jks
