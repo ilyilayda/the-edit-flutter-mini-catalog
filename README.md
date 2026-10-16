@@ -188,14 +188,6 @@ The following screenshots were captured from The Edit running on a Pixel 4 Andro
 ## Important note
 This is a **demonstration**, not an online store. Prices are fictional; no backend, account, payment, or order processing is implemented. Product illustrations were generated specifically for this project.
 
-## Submission checklist
-- [ ] App launches successfully on Android
-- [ ] `flutter test` and `flutter analyze` pass
-- [ ] Update the Flutter version above using your environment
-- [ ] Capture and commit real screenshots
-- [ ] Push all source files and screenshots to a **public GitHub repository**
-- [ ] Submit the public GitHub repository URL
-
 ## License
 Educational project; see `LICENSE`.
 <p align="center">
